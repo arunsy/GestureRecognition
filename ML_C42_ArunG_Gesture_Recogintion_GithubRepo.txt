@@ -1,4 +1,4 @@
-Melanoma Cancer Detection analysis is shared on this 
+Gesture Recognition analysis is shared on this 
 GitHub path: https://github.com/arunsy/GestureRecognition
 
 Following files are shared in this repository.
