@@ -30,7 +30,7 @@
 
 ## Technologies Used
 - Tensor Flow
-- RNN Neural Network
+- RNN
 - Jarvis/Google Colab
 - LSTM/GRU/Convolution3D
 - Python
